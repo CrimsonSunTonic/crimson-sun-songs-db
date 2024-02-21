@@ -1,0 +1,52 @@
+{
+    "songs": [
+        {
+            "id": 1,
+            "title": "Gotoubun no Mirai",
+            "artist": "中野家の五つ子（花澤香菜・竹達彩奈・伊藤美来・佐倉綾音・水瀬いのり）",
+            "tuning": "standard",
+            "youtube": "https://youtu.be/3W6KlYqG0Sk",
+            "chord": "Coda:\nAsus4 A | B7sus4 B7\nAsus2 Bsus4 | G#m7b13 C#m7\nAsus2 Bsus4 | E C#m7\nAsus2 Bsus4 | G#m7b13 C#m7\nAsus2 Bsus4 | E\n\nIntro:\nAsus2 Bsus4 | G#m7b13 C#m7\nAsus2 Bsus4 | E G#7\nAsus2 Bsus4 | G#m7b13 C#m7\nC | B11 -> B7\n\nVer:\nE | Asus2 | B7 | C#m7\nF#m11 | E/G# | Am | B11 -> B7\n\nBrigde:\nAsus2 B7 |  E\nAsus2 B7 |  E -> Fdim7\nF#m7 | E/G# | Asus2  Am | B11 -> B7\n\nChorus:\nAsus2 B11 | G#m7b13 C#m7\nAsus2 B11 | E C#m7\nAsus2 B11 | G#m7b13 C#m7\nAsus2  | Am D7\n\nAsus2 B11 | G#m7b13 C#m7\nAsus2 B11 | E C#m7\nAsus2 B11 | G#m7b13 C#m7\nAsus2  B9sus4| E\n\noutro:\nAsus2 Bsus4 | G#m7b13 C#m7\nC | B11 -> B7|"
+        },
+        {
+            "id": 2,
+            "title": "リテラチュア",
+            "artist": "上田麗奈",
+            "tuning": "open E (E B E G# B E)",
+            "youtube": "https://youtu.be/hQYdBZryKUk",
+            "chord": "Intro\nAsus2 Bsus4(add11) C#m7 E/G#  Asus2 B(harmonic)\n\nVer\nE Badd4/D# C#m7 E/B\nAsus2 Bsus4(add11)\n\nE Badd4/D# C#m7 E/B\nAsus2 Bsus4(add11)\n\nBridge\nC#m7 G#m7 Asus2  E->Badd4/D# \nC#m7 G#m7 Asus2   Bsus4(add11)\nD6add9 A/C#  Bsus4(add11)\n\nChorus\nAsus2 Bsus4(add11) C#m7  Badd4/D#->E\nAsus2 Bsus4(add11) C#m7\n00002x  ->  00024x ->  00045x  -> 00075x\n\nAsus2 Bsus4(add11) C#m7 E\nF#m7 E/G#  Asus2 Bsus4(add11)\n\noutro:\nEM7sus4/A\n3<7>  4<5>   1<7>"
+        },
+        {
+            "id": 3,
+            "title": "サインはB - アイ Solo Ver",
+            "artist": "Ｂ小町",
+            "tuning": "standard",
+            "youtube": "https://youtu.be/xe4pIECek_o",
+            "chord": "Coda:\nA#m7b5 AM7 | G#m7 GM13 | F#m7 B9 | E\n\nIntro:\n A B | G#m7 GM13 | F#m7 G#m7 | Am Bm |\nE ~\n\nVer:\nE | E#dim7 | F#m7 | Am | G#m7 | C#m7 | DM7 | dấu lặng chỗ này |\nE | E#dim7 | F#m7 | Am | G#m7 | C#m7 | F#m7 -> G#m7 | Am -> A/B\n\nBrigde:\nE | Bsus4 -> E\nE | B Baug |\n\nChorus:\nAsus2 | B7 | G#m7 | GM13\nF#m7 | G#m7 | Am | A/B\nAsus2 | B7 | G#m7 | C#7\nF#m7 | G#m7 | Am | A/B | Am | Bm\nA#m7b5 AM7 | G#m7 GM13 | F#m7 B9 |  E\n\noutro:\n A | B | G#m7 GM13 | F#m7 G#m7 | Am Bm |\n | Am Bm | Cm Dm |  Esus4 -> E"
+        },
+        {
+            "id": 4,
+            "title": "サインはB - New Arrange Version",
+            "artist": "新生B小町",
+            "tuning": "standard",
+            "youtube": "https://youtu.be/QBUQ5vFMrGA",
+            "chord": "Coda:\nA#m7b5 AM7 | G#m7 GM13 | F#m7 B | Esus4 -> E\n\nIntro:\nAsus2 B7 | G#m7 C#m7\nAsus2 B7 | C#m7\nAsus2 | B7 | C D\n\nVer:\nE | E/G# | Asus2 | Am | G#m7 | C#m7 | F#m7 | B\nE | E/G# | Asus2 | Am | G#m7 | C#m7 -> C#7 | F#m7 -> G#m7 | Am -> A/B\n\nBrigde:\nE | F#m7 | Asus2 | B7 ->Cdim\nC#m7 | B | A | Baug| A#m7b5\n\nChorus:\nA | B7 | G#m7 | C#m7 \nF#m7 | G#m7 | Am | A/B\n\nA | B7 | G#m7 | C#7\nF#m7 | G#m7 | Am | A/B | C | D\n\nA#m7b5 AM7 | G#m7 GM13 | F#m7 B |  E\n\noutro:\n A B | G#m7 GM13 | F#m7 G#m7 | Am Bm |\n | Am Bm | Cm Dm |  Esus4 -> E"
+        },
+        {
+            "id": 5,
+            "title": "なにが悪い",
+            "artist": "結束バンド",
+            "tuning": "standard",
+            "youtube": "https://youtu.be/rvi0sU67oiI",
+            "chord": "intro:\nF | G\nC | Fm/C | C | Fm/C\n\nver:\nC | Gm7 | FM7 | Fm\nC | Gm7 | FM7 | F/G\n\nbrigde:\nAm  | F | C | G \nAm  |  F | D7/F# | Bb -> A\n\nchorus:\nD | F#7 | Bm7 | Am7  -> D7 | G | A\nD | F#7 | Bm7 | Am7  -> D7\nG | A | F#m7 | Bm7 \nG | A | A#dim7 | Bm7 \nG ↓↓↓\nF | G\nC | Fm/C | C | Fm/C　->　C"
+        },
+        {
+            "id": 6,
+            "title": "Full moon…!",
+            "artist": "有馬かな",
+            "tuning": "standard",
+            "youtube": "https://youtu.be/YGin8rAZ3Mw",
+            "chord": "Pre-Chorus\nCadd9 | Dsus4 | Bm7b13 | Em7\nAm7 | D9sus4 -> C#m7b5\n\nintro:\nC| D | |Bm7b13 | Em7\nAm7 | D9sus4 | Gsus4 ->G\n\nver:\nG/B | Cadd9 | D | G\nG/B | Cadd9 | D | Em7\n\nG/B | Cadd9 | D | G\nG/B | Cadd9 | D | G\n\nbrigde:\nCadd9 | Bm7b13 | Am7 | G/B\nAm7 | D9sus4 ↓↓↓ -> D7\n\nchorus:\nCadd9 | D | Bm7 | Em7\nCadd9 | D | B7 | Em7\nCadd9 | D | D#dim7 | Em7->G7/D\nAm7 | D9sus4 | G\n\nre-chorus:\nC#m7b5 | CM7 | Bm7 -> B7 | E7sus4>E7\nAm7 | D9sus4 \n\nouttro:\nCadd9 | D | Bm7 | Em7\n\nAm7 | D9sus4 | Gsus4 ->G"
+        }
+    ]
+}
